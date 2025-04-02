@@ -1,0 +1,21 @@
+[ {
+  "name" : "pictura",
+  "dateTime" : [ 2005, 1, 12, 12, 30, 25 ],
+  "tags" : "natura peisaj ",
+  "path" : "D:\\input.txt"
+}, {
+  "name" : "pictura",
+  "dateTime" : [ 2005, 1, 12, 12, 30, 25 ],
+  "tags" : "natura peisaj ",
+  "path" : "D:\\input1.txt"
+}, {
+  "name" : "pictura",
+  "dateTime" : [ 2005, 1, 12, 12, 30, 25 ],
+  "tags" : "natura peisaj ",
+  "path" : "D:\\input2.txt"
+}, {
+  "name" : "pictura",
+  "dateTime" : [ 2005, 1, 12, 12, 30, 25 ],
+  "tags" : "natura peisaj ",
+  "path" : "D:\\input3.txt"
+} ]
